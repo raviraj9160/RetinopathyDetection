@@ -1,4 +1,4 @@
-In this repo you will get all required files and details description of it
+
 # RetinopathyDetection
 In this repo you will get all required files and details description of it
 
